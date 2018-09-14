@@ -5,13 +5,12 @@ import org.testng.annotations.Test;
 
 public class JenkinsTest {
 
-	WebDriver driver;
+	public static void main(String args[]){
 	
-	@Test
-	public void Testcase(){
 		int a = 10;
 		int b = 20;
 		int c = a+b;
 		System.out.println("Sum of :"+ c);
+	
 	}
 }
