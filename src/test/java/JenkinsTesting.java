@@ -10,6 +10,7 @@ public class JenkinsTesting {
 		int c = a+b;
 		System.out.println("Sum of :"+ c);
 		System.out.println(" First Jenkins Testing Project");
+		System.out.println("First changes");
 	}
 
 }
